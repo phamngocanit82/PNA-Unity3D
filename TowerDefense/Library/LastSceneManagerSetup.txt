@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/TowerDefense_LevelSelect.unity
+  isLoaded: 1
+  isActive: 1
